@@ -31,3 +31,13 @@
 - The provided code snippet focuses on the model, URL routing, and authentication aspects.
 - Token authentication requires sending a valid token in the request headers for authorized API access.
 - Additional views and logic may be required for managing permissions and roles within the system.
+
+
+## Runnig the Project
+
+- Clone the repository
+- Install pipenv if not installed using `pip install pipenv`
+- Create a virtual environment using `pipenv shell`
+- Install the dependencies using `pipenv install`
+- Run the server using `python manage.py runserver`
+
